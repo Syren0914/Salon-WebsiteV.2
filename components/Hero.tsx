@@ -57,7 +57,7 @@ const Hero: React.FC = () => {
               <Reveal delay={0.8}>
                 <div className="flex flex-col sm:flex-row gap-5 w-full sm:w-auto">
                   <a 
-                    href="#book"
+                    href="https://book.squareup.com/appointments/y2pscmw5yy6gci/location/L0VK989FSAD40/services"
                     className="px-10 py-4 bg-forest-900 text-cream-50 rounded-full font-medium tracking-wide hover:bg-forest-800 transition-all text-center shadow-lg hover:shadow-xl hover:-translate-y-1 transform duration-300"
                   >
                     Book Appointment

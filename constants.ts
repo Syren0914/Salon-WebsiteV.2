@@ -48,43 +48,37 @@ export const SERVICE_CATEGORIES = [
     title: "Clinical Rejuvenation",
     description: "Advanced modalities for structural lifting and resurfacing.",
     items: [
+      
       {
         id: 'c1',
-        title: 'PRX T33 Biostimulator',
-        description: 'A non-invasive topical collagen biostimulator™ clinically proven to tighten, tone, and lift. Provides instant visible rejuvenation for face and body without needles or downtime.',
-        price: '$180.00',
-        duration: '45 min'
-      },
-      {
-        id: 'c2',
         title: 'PRX-PLUS',
         description: 'Advanced Topical Biostimulator for mature or photoaged skin. Targets deeper signs of aging to smooth wrinkles and visibly correct hyperpigmentation with enhanced collagen activation.',
         price: '$359.00',
         duration: 'Consult'
       },
       {
-        id: 'c3',
+        id: 'c2',
         title: 'PRX',
         description: 'Advanced Topical Biostimulator for mature or photoaged skin. Targets deeper signs of aging to smooth wrinkles and visibly correct hyperpigmentation with enhanced collagen activation.',
         price: '$250.00',
         duration: 'Consult'
       },
       {
-        id: 'c4',
+        id: 'c3',
         title: 'PRX°C Radiance',
         description: 'Topical Biostimulator with the antioxidant power of Vitamin C. Boosts collagen synthesis and neutralizes free radicals for a radiant complexion.',
         price: '$300.00',
         duration: 'Consult'
       },
        {
-        id: 'c5',
+        id: 'c4',
         title: 'Radio Frequency Toning',
         description: 'Uses controlled RF energy to heat deeper skin layers. Stimulates collagen and elastic fiber production to improve elasticity, tone, and reduce wrinkles and sagging.',
         price: '$120.00',
         duration: '1 hr'
       },
       {
-        id: 'c6',
+        id: 'c5',
         title: 'Chemical Peel',
         description: 'Uses a chemical solution to exfoliate and remove dead skin cells. Promotes cellular turnover for a smoother, brighter complexion.',
         price: '$100.00',

@@ -120,7 +120,7 @@ const Navbar: React.FC = () => {
           ))}
           <div className="w-12 h-px bg-sage-300 my-4"></div>
           <a 
-            href="#book"
+            href="https://book.squareup.com/appointments/y2pscmw5yy6gci/location/L0VK989FSAD40/services"
             onClick={(e) => handleNavClick(e, '#book')}
             className="text-sm font-bold uppercase tracking-widest text-forest-900 border-b border-forest-900 pb-1 cursor-pointer"
           >
