@@ -74,7 +74,7 @@ const Contact: React.FC = () => {
                </p>
 
                <a 
-                 href="https://squarespace.com" 
+                 href="https://book.squareup.com/appointments/y2pscmw5yy6gci/location/L0VK989FSAD40/services" 
                  target="_blank" 
                  rel="noopener noreferrer"
                  className="inline-block w-full bg-forest-900 text-cream-50 font-bold uppercase tracking-[0.2em] py-5 rounded-xl hover:bg-forest-800 transition-all hover:scale-[1.02] shadow-lg relative z-10"
