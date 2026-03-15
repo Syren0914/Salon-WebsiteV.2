@@ -14,6 +14,7 @@ export interface ServiceItem {
   price: string;
   duration: string;
   sortOrder?: number;
+  squareItemId?: string;
 }
 
 export interface ServiceCategory {
